@@ -40,10 +40,17 @@ titanic-assignment/
 
 ## How To Run
 
+Clone and enter the project folder:
+
+```bash
+git clone https://github.com/nduatiii404/titanic-assignment.git
+cd titanic-assignment
+```
+
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Run the full workflow:
